@@ -1,0 +1,11 @@
+
+input{
+    width: 300px;
+}
+.elements{
+    margin: 10px;
+}
+.submit{
+    background-color: green;
+    color: white;
+}
